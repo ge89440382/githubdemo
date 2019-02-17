@@ -1,0 +1,11 @@
+server:
+  port: 8091
+  servlet:
+    context-path: /demo
+
+
+person:
+  sex: "男"
+  age: 26
+  name: "张三"
+  

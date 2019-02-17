@@ -1,0 +1,9 @@
+server:
+  port: 8090
+  servlet:
+    context-path: /demo
+
+person:
+  sex: "女"
+  age: 24
+  name: "张女"
